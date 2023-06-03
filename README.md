@@ -1,5 +1,5 @@
 # alpwps
-Alp Web Site IP ADRESS AND PORT SCANNER
+ALP WEB SITE IP ADRESS AND PORT SCANNER
 
 It finds the ip address of the target website and scans all the ports of the found ip address one by one and saves the open ports in a txt file
 
